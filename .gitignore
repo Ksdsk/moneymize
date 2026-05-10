@@ -1,3 +1,6 @@
+# ─── Kiro spec files — private, not for public repos ────────────────────────
+.kiro/
+
 # ─── Dependencies ────────────────────────────────────────────────────────────
 node_modules/
 .pnp
